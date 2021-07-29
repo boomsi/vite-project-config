@@ -1,1 +1,3 @@
-## React Ts for Vite simple config
+## React Ts for Vite
+
+Only use `Prettier` `Eslint`
